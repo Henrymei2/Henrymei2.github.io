@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://github.com/Henrymei2/Henrymei2.github.io"
+base_url = "Henrymei2.github.io"
 taxonomies = [{name = "tags", feed = true}]
 theme = "tabi"
 title = "Project QQQ – Qool Quantum Qompilers"
