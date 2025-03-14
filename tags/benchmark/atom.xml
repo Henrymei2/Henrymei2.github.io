@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet href="Henrymei2.github.io/feed_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://henrymei2.github.io/feed_style.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <tabi:metadata xmlns:tabi="https://github.com/welpo/tabi">
-        <tabi:base_url>Henrymei2.github.io</tabi:base_url>
+        <tabi:base_url>https:&#x2F;&#x2F;henrymei2.github.io&#x2F;</tabi:base_url>
         <tabi:separator>
             •
         </tabi:separator>
@@ -14,19 +14,19 @@
         <tabi:post_listing_date>date</tabi:post_listing_date>
         <tabi:current_section>Benchmark</tabi:current_section>
     </tabi:metadata><title>Project QQQ – Qool Quantum Qompilers - Benchmark</title>
-    <link href="Henrymei2.github.io/tags/benchmark/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="Henrymei2.github.io/tags/benchmark/" rel="alternate" type="text/html"/>
+    <link href="https://henrymei2.github.io/tags/benchmark/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://henrymei2.github.io/tags/benchmark/" rel="alternate" type="text/html"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-12-18T00:00:00+00:00</updated>
-    <id>Henrymei2.github.io/tags/benchmark/atom.xml</id><entry xml:lang="en">
+    <id>https://henrymei2.github.io/tags/benchmark/atom.xml</id><entry xml:lang="en">
         <title>Benchmark Suite</title>
         <published>2024-12-18T00:00:00+00:00</published>
         <updated>2024-12-18T00:00:00+00:00</updated>
         <author>
             <name>Unknown</name>
         </author>
-        <link rel="alternate" href="Henrymei2.github.io/projects/benchmark-suite/" type="text/html"/>
-        <id>Henrymei2.github.io/projects/benchmark-suite/</id>
+        <link rel="alternate" href="https://henrymei2.github.io/projects/benchmark-suite/" type="text/html"/>
+        <id>https://henrymei2.github.io/projects/benchmark-suite/</id>
         <summary type="html">Evaluate your compiler with quantum compiler with a comprehensive set of test circuits</summary>
         </entry>
 </feed>

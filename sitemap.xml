@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="Henrymei2.github.io/sitemap_style.xsl" type="text/xsl"?>
+<?xml-stylesheet href="https://henrymei2.github.io/sitemap_style.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>Henrymei2.github.io/</loc>
+        <loc>https://henrymei2.github.io/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/people/</loc>
+        <loc>https://henrymei2.github.io/people/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/people/abtin/</loc>
+        <loc>https://henrymei2.github.io/people/abtin/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/people/amanda/</loc>
+        <loc>https://henrymei2.github.io/people/amanda/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/people/aws/</loc>
+        <loc>https://henrymei2.github.io/people/aws/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/</loc>
+        <loc>https://henrymei2.github.io/projects/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/benchmark-suite/</loc>
+        <loc>https://henrymei2.github.io/projects/benchmark-suite/</loc>
         <lastmod>2024-12-18</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/dascot/</loc>
+        <loc>https://henrymei2.github.io/projects/dascot/</loc>
         <lastmod>2025-02-18</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/guoq/</loc>
+        <loc>https://henrymei2.github.io/projects/guoq/</loc>
         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/queso/</loc>
+        <loc>https://henrymei2.github.io/projects/queso/</loc>
         <lastmod>2023-03-31</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/satmap/</loc>
+        <loc>https://henrymei2.github.io/projects/satmap/</loc>
         <lastmod>2022-08-29</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/projects/wisq/</loc>
+        <loc>https://henrymei2.github.io/projects/wisq/</loc>
         <lastmod>2025-03-06</lastmod>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/</loc>
+        <loc>https://henrymei2.github.io/tags/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/benchmark/</loc>
+        <loc>https://henrymei2.github.io/tags/benchmark/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/circuit/</loc>
+        <loc>https://henrymei2.github.io/tags/circuit/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/compiler/</loc>
+        <loc>https://henrymei2.github.io/tags/compiler/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/mapping/</loc>
+        <loc>https://henrymei2.github.io/tags/mapping/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/optimization/</loc>
+        <loc>https://henrymei2.github.io/tags/optimization/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/routing/</loc>
+        <loc>https://henrymei2.github.io/tags/routing/</loc>
     </url>
     <url>
-        <loc>Henrymei2.github.io/tags/synthesis/</loc>
+        <loc>https://henrymei2.github.io/tags/synthesis/</loc>
     </url>
 </urlset>
