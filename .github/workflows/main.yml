@@ -19,7 +19,7 @@ jobs:
           echo "Checking theme folder structure..."
           ls -R themes/
           echo "Checking for theme.toml file..."
-          if [ ! -f themes/my-theme/theme.toml ]; then
+          if [ ! -f themes/tabi/theme.toml ]; then
             echo "❌ theme.toml not found!"
             exit 1
           fi
