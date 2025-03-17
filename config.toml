@@ -14,11 +14,11 @@ build_search_index = false
 # Whether to do syntax highlighting
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = false
+external_links_class = "external"
+
 
 [extra]
 # Put all your custom variables here
-
 menu = [
-    { name = "Projects", url = "projects", trailing_slash = true },
     { name = "People", url = "people", trailing_slash = true }
 ]
